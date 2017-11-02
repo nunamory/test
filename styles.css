@@ -1,0 +1,12 @@
+div{
+	border: 2px solid #000;
+	text-align: center;
+	color: #f6521d;
+	padding: 3px;
+	margin: 5px;
+	font-size: 20px;
+}
+img {
+	position: relative;
+	left: 500px;
+}
